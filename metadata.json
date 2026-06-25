@@ -1,0 +1,6 @@
+{
+  "name": "《简爱》儿童互动精读笔记",
+  "description": "为三年级小学生量身定制的《简爱》前三章趣味互动精读笔记本。包含动画角色卡牌、好词句收集箱、冒险闯关思考题、智能积分与星光小铺、触屏涂鸦手绘板、星光勋章柜和专属松鼠萌伴，寓学于乐，深度陪伴孩子阅读成长！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
